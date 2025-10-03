@@ -1,6 +1,6 @@
 # ROV Control System Simulator
 
-This project was developed as part of my AMATH 352 (Applied Linear Algebra) final and implements a control system for a Remotely Operated Vehicle (ROV). The system reads an ROV’s thruster configuration and Xbox controller input, then translates commands into thrust outputs using linear algebra and a 6 Degrees of Freedom (6 DOF) motion model.
+This project implements a control system for a Remotely Operated Vehicle (ROV). The system reads an ROV’s thruster configuration and Xbox controller input, then translates commands into thrust outputs using linear algebra and a 6 Degrees of Freedom (6 DOF) motion model.
 
 🚀 Project Overview
 
